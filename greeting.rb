@@ -1,4 +1,4 @@
-def greeting_five_times
+def greeting
   puts "Hello World"
   puts "Hello World"
   puts "Hello World"
